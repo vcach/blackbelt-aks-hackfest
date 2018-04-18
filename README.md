@@ -1,4 +1,4 @@
-#Global Azure Bootcamp Bogota 2018
+# Global Azure Bootcamp Bogota 2018
 
 _"Delivering modern web applications with Kubernetes and OpenSource Technologies"_ Talk
 
@@ -6,7 +6,7 @@ You can use this repo to replicate the steps followed in the demo of this talk. 
 
 In the "labs" folder you can find the code of the application used in the demo as well as the code to generate the services ACR, AKS, Brigade, Kashti, etc.
 
-###Credits
+### Credits
 
 This is a fork of the Hackfest Labs by Azure blackbelt team workshop. For more details please keep reading this Readme or go to "Azure/blackbelt-aks-hackfest" repo.
 
