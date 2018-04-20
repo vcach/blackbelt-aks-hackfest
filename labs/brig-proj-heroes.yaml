@@ -1,0 +1,11 @@
+project: "vcach/GAB2018-Kubernetes"
+repository: "github.com/vcach/GAB2018-Kubernetes"
+cloneURL: "https://github.com/vcach/GAB2018-Kubernetes.git"
+sharedSecret: "Camilo0515"
+github:
+  token: 763c158880b630e2b34efbf1884e145e514f7822
+secrets:
+  acrServer: vcach01.azurecr.io
+  acrUsername: vcach01
+  acrPassword: "FCtj3R9ykHgo=ua0qF8YTlKYyAW2CgaY"
+vcsSidecar: "deis/git-sidecar:v0.11.0"

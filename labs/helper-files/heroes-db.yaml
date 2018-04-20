@@ -33,7 +33,7 @@ spec:
       imagePullSecrets:
         - name: acr-secret
       containers:
-      - image:  <login server>/azureworkshop/rating-db:v1
+      - image:  vcach01.azurecr.io/azureworkshop/rating-db:v1
         name:  heroes-db-cntnr
         resources:
           requests:
@@ -50,3 +50,4 @@ spec:
         - name: data
           emptyDir: {}
       restartPolicy: Always
+      
