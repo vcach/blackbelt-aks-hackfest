@@ -1,9 +1,9 @@
-project: "vcach/GAB2018-Kubernetes"
-repository: "github.com/vcach/GAB2018-Kubernetes"
-cloneURL: "https://github.com/vcach/GAB2018-Kubernetes.git"
+project: "vcach/blackbelt-aks-hackfest"
+repository: "github.com/vcach/blackbelt-aks-hackfest"
+cloneURL: "https://github.com/vcach/blackbelt-aks-hackfest.git"
 sharedSecret: "Camilo0515"
 github:
-  token: 763c158880b630e2b34efbf1884e145e514f7822
+  token: ce13e44c381370e1abf7ec0b5ab32b3b64f4be56
 secrets:
   acrServer: vcach01.azurecr.io
   acrUsername: vcach01
